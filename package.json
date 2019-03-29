@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-pinlock",
+  "version": "0.0.1",
+  "description": "Cordova PIN lock Plugin",
+  "cordova": {
+    "id": "cordova-plugin-pinlock",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "pinlock",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Sergey Smirnov",
+  "license": "MIT"
+}
